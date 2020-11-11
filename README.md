@@ -34,7 +34,9 @@ All of the above 😂
 
 ## Contributions you're proud of
 
-- [EP_Script](https://github.com/AlphaCodeCorp/EPScript) Project aiming to recover images from a reddit sub
+<a href="https://github.com/AlphaCodeCorp/EPScript%22%3E">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaCodeCorp&repo=EPScript" />
+</a>
 
 ## 📫 How to reach me
 <a href="https://www.linkedin.com/in/pierre-boutin-b61b1b160/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a>
