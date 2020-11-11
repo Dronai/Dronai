@@ -3,7 +3,6 @@
 
 **Dronai/Dronai** is a ✨ _special_ ✨ repository because its my `README.md` ! 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on nothing, I have some ideas I have to go for it!
 - 🌱 I’m currently learning python and flutter
