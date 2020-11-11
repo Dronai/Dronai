@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on nothing, I have some ideas I have to go for it!
 - 🌱 I’m currently learning python and flutter
 - 💬 Ask me about what you want
-- ⚡ Fun fact: I love eat !
+- ⚡ Fun fact: I love to eat !
 
 ## Techs & Languages
 
