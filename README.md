@@ -42,3 +42,5 @@ All of the above 😂
 <a href="https://github.com/Dronai" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></a>
 <a href="mailto:pierre.boutin@viacesi.fr" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"></a>
 <a href="https://discordapp.com/users/176264765214162944" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg"></a>
+
+Thank you [Sacrezar](https://github.com/Sacrezar) for the inspiration ❤️
