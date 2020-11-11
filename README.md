@@ -38,6 +38,13 @@ All of the above 😂
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaCodeCorp&repo=EPScript" />
 </a>
 
+## Stats
+
+[![Dronai's github stats](https://github-readme-stats.vercel.app/api?username=Dronai)](https://github.com/Dronai/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dronai)](https://github.com/Dronai/github-readme-stats)
+
+
 ## 📫 How to reach me
 <a href="https://www.linkedin.com/in/pierre-boutin-b61b1b160/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a>
 <a href="https://github.com/Dronai" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></a>
