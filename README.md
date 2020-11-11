@@ -40,11 +40,11 @@ All of the above 😂
 
 ## Stats
 
-[![Dronai's github stats](https://github-readme-stats.vercel.app/api?username=Dronai)](https://github.com/Dronai/github-readme-stats)
+[![Dronai's github stats](https://github-readme-stats.vercel.app/api?username=Dronai)](https://github.com/Dronai)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dronai)](https://github.com/Dronai/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dronai)](https://github.com/Dronai)
 
-[![Dronai's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Dronai)](https://github.com/Dronai/github-readme-stats)
+[![Dronai's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Dronai)](https://wakatime.com)
 
 ## 📫 How to reach me
 <a href="https://www.linkedin.com/in/pierre-boutin-b61b1b160/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a>
