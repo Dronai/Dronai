@@ -44,7 +44,7 @@ All of the above 😂
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dronai)](https://github.com/Dronai)
 
-[![Dronai's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dronai)](https://github.com/dronai/github-readme-stats)
+[![Dronai's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Dronai)](https://github.com/dronai/github-readme-stats)
 
 ## 📫 How to reach me
 <a href="https://www.linkedin.com/in/pierre-boutin-b61b1b160/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a>
