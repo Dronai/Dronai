@@ -46,7 +46,7 @@ All of the above 😂
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dronai)](https://github.com/Dronai)
 
-[![Dronai's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Dronai)](https://wakatime.com)
+[![Dronai's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Dronai)](https://github.com/Dronai)
 
 ## 📫 How to reach me
 
