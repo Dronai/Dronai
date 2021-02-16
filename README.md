@@ -7,6 +7,8 @@
 - 💬 Ask me about what you want
 - ⚡ Fun fact: I love to eat !
 
+I'm a active member of <a href="https://github.com/AlphaCodeCorp">AlphaCode</a>
+
 ## Techs & Languages
 
 ❤️ This is what i like :
